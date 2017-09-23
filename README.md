@@ -1,2 +1,2 @@
-# Search_The_Dungeon_Repository
-Repository for "Search the dungeon" a word-based RPG for the CIT 260 class. Spring 2017 
+# Search The Dungeon
+Repository for "Search the Dungeon" a word-based RPG for the CIT 260 class. Spring 2017 
